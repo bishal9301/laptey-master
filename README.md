@@ -16,7 +16,3 @@ As most of the businesses are inclined towards better and comfortable solutions 
 ## Team
 
 <p>
-
-<p align="center">
-  <img src="./public/assets/team.png" alt="Meet our team" width="100%">
-</p>
