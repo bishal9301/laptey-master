@@ -13,6 +13,3 @@ As most of the businesses are inclined towards better and comfortable solutions 
 - Frontend: HTML, CSS, JS
 - Backend: nodeJS, Express, MongoDB
 
-## Team
-
-<p>
